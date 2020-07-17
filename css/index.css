@@ -1,0 +1,16 @@
+h1 {
+    color: red;
+}
+
+p {
+    background-color: green;
+    margin: 0;
+}
+
+#chosen {
+    font-weight: bold;
+}
+
+.brown {
+    color: brown;
+}
